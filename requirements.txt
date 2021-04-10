@@ -1,0 +1,12 @@
+# Downloading Data
+boto3
+
+# Data Management
+numpy
+pandas
+
+# Audio libraries
+playsound
+
+# Misc
+tqdm                # loading bar
